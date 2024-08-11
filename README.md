@@ -35,6 +35,6 @@ to the class name of both of the corresponding classes.
 
 ## Future Plans
 
-- Implement more advanced data structures (e.g., AVL Trees, Red-Black Trees).
+- Implement more advanced data structures (e.g., Hash Table, AVL Trees).
 - Implement additional algorithms for existing data structures.
-- Write unit tests for each data structure using JUnit. Configure Maven to manage test dependencies and automate test execution.
+- Write unit tests for each data structure using JUnit. Use Maven to manage test dependencies and automate unit test execution.
