@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 public class Heap {
     private static final int INITIAL_CAPACITY = 20;
-    // Common to write final instance variables of class LIKE_THIS
 
     private int[] nodes = new int[INITIAL_CAPACITY];
     int i = 0; // index of last element of heap
