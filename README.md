@@ -38,3 +38,6 @@ to the class name of both of the corresponding classes.
 - Implement more advanced data structures (e.g., Hash Table, AVL Trees).
 - Implement additional algorithms for existing data structures.
 - Write unit tests for each data structure using JUnit. Use Maven to manage test dependencies and automate unit test execution.
+
+## Usage Rights
+This repository is publicly visible for academic purposes only. Any unauthorized use, reproduction, or distribution requires explicit permission from the repository owner.
