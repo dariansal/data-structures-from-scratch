@@ -1,3 +1,4 @@
+package src.main.java.datastructures;
 import java.util.*;
 
 // The WeightedGraph class represents a graph with nodes and weighted edges

@@ -1,3 +1,4 @@
+package src.main.java.datastructures;
 import java.util.*;
 
 public class StackCustom {

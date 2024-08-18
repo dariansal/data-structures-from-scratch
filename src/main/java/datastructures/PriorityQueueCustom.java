@@ -1,3 +1,4 @@
+package src.main.java.datastructures;
 public class PriorityQueueCustom {
     private Heap heap = new Heap();
 

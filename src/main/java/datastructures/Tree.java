@@ -1,3 +1,4 @@
+package src.main.java.datastructures;
 import java.lang.Math;
 import java.util.*;
 
